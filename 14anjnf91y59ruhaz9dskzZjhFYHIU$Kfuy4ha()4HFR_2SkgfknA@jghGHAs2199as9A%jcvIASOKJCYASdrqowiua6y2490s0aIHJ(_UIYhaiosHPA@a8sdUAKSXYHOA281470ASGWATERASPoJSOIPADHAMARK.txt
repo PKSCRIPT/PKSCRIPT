@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://github.com/PKSCRIPT/PKSCRIPT/blob/main/132321.lua')))()
 OrionLib:MakeNotification({
 	Name = "ScriptHub Loaded",
 	Content = "This ScriptHub uses Lucas!#9935 ScriptHub template",
